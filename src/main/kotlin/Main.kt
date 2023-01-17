@@ -8,7 +8,7 @@ fun main() {
     println("prueba 3")
     if (testdifferenceOfTen()) println("Paso la prueba") else println("Error")
     println("isValidNui Test")
-    println("prueba 4")https://github.com/jgsuquitana01/TDD/blob/main/src/main/kotlin/Main.kt
+    println("prueba 4")
     if (testvalidNui()) println("Paso la prueba") else println("Error")
 }
 
