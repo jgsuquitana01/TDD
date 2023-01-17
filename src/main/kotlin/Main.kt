@@ -1,15 +1,15 @@
 fun main() {
-    println("Test 1")
-    if (testProduct()) println("Pass") else println("Error")
+    println("prueba 1")
+    if (testProduct()) println("Paso la prueba") else println("Error")
     println("SumProduct Test")
-    println("Test 2")
-    if (testSumProducts()) println("Pass") else println("Error")
+    println("prueba 2")
+    if (testSumProducts()) println("Paso la prueba ") else println("Error")
     println("DifferenceOfTen Test")
-    println("Test 3")
-    if (testdifferenceOfTen()) println("Pass") else println("Error")
+    println("prueba 3")
+    if (testdifferenceOfTen()) println("Paso la prueba") else println("Error")
     println("isValidNui Test")
-    println("Test 4")
-    if (testvalidNui()) println("Pass") else println("Error")
+    println("prueba 4")https://github.com/jgsuquitana01/TDD/blob/main/src/main/kotlin/Main.kt
+    if (testvalidNui()) println("Paso la prueba") else println("Error")
 }
 
 
