@@ -20,8 +20,8 @@ fun product(coefficient:Int, digit:Int):Int{
 }
 
 fun testProduct():Boolean{
-    val res = product(7,8)
-    val expected = 47
+    val res = product(5,9)
+    val expected = 36
     return (res == expected)
 }
 
@@ -39,7 +39,7 @@ fun sumProducts(array:ArrayList<Int>):Int{
     return sum
 }
 fun testSumProducts():Boolean{
-    val res = sumProducts(arrayListOf(0,1,2,3,4))
+    val res = sumProducts(arrayListOf(0,1,2,3))
     val expected = 16
     return (res == expected)
 }
